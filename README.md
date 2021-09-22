@@ -13,3 +13,6 @@ In general, there are multiple ways to featurize a given piece of sentence to ob
 
 The [Keras IMDb Sentiment Classification Dataset](https://keras.io/api/datasets/imdb/) contains 25,000 movies reviews from IMDB, labeled by sentiment (positive/negative). Reviews have been preprocessed, and each review is encoded as a list of word indexes (integers). For convenience, words are indexed by overall frequency in the dataset, so that for instance the integer "3" encodes the 3rd most frequent word in the data.
 
+### Credits
+
+[Blog article by Jason Brownlee](https://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/)
